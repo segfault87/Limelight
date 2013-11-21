@@ -1,0 +1,7 @@
+baker
+Flask
+gevent
+gunicorn
+pyyaml
+umysql
+
