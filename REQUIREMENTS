@@ -1,7 +1,9 @@
-baker
+bcrypt
 Flask
+Flask-Script
 gevent
 gunicorn
 pyyaml
+redis
 umysql
-
+umysqldb

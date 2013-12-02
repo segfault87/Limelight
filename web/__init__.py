@@ -10,3 +10,8 @@ application = Flask('Limelight')
 def hello():
     return 'world'
 
+
+def create_app(config_file):
+    return application
+
+
